@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract DecentralizaTechDAO {
+contract BigTechDAO {
     address public dono;
     uint public totalAcoes;
     mapping(address => uint) public acoes;
